@@ -56,6 +56,7 @@
     <img src="https://img.shields.io/npm/v/@agacraft/functions?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Ffunctions&logo=npm&style=flat-square">
   </a>
 </p>
+(https://adriancraft07.github.io/git.html)
 
 ### Github Stats:
 
