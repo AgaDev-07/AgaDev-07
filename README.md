@@ -43,8 +43,8 @@
   <a href="https://www.npmjs.com/package/@agacraft/http" target="_blank">
     <img src="https://img.shields.io/npm/v/@agacraft/http?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Fhttp&logo=npm&style=flat-square">
   </a>
-  <a href="https://www.npmjs.com/package/@agacraft/http" target="_blank">
-    <img src="https://img.shields.io/npm/v/@agacraft/http?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Fhttp&logo=npm&style=flat-square">
+  <a href="https://www.npmjs.com/package/@agacraft/extension" target="_blank">
+    <img src="https://img.shields.io/npm/v/@agacraft/extension?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Fextension&logo=npm&style=flat-square">
   </a>
   <a href="https://www.npmjs.com/package/@agacraft/fs" target="_blank">
     <img src="https://img.shields.io/npm/v/@agacraft/fs?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Ffs&logo=npm&style=flat-square">
