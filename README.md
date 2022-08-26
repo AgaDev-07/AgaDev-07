@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCraft07&card_width=450em&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=0d111700&border_color=FF0000"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCraft07&card_width=450em&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=00000000&border_color=FF0000&layout=compact"/>
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=AdrianCraft07&show_icons=true&&count_private=true&include_all_commits=true&hide_stars=true&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=0d111700&border_color=FF0000" />
