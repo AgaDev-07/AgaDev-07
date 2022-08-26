@@ -40,7 +40,9 @@
 
 ### NPM Package
 <p>
-  <img src="https://img.shields.io/npm/v/@agacraft/http?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Fhttp&logo=npm&style=flat-square">
+  <a href="https://www.npmjs.com/package/@agacraft/http">
+    <img src="https://img.shields.io/npm/v/@agacraft/http?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Fhttp&logo=npm&style=flat-square">
+  </a>
   <img src="https://img.shields.io/npm/v/@agacraft/fs?style=for-the-badge&color=%23ff0000&label=%40agacraft%2fs&logo=npm&style=flat-square">
   <img src="https://img.shields.io/npm/v/@agacraft/classes?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Fclasses&logo=npm&style=flat-square">
   <img src="https://img.shields.io/npm/v/@agacraft/extension?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Fextension&logo=npm&style=flat-square">
@@ -52,7 +54,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCraft07&card_width=450em&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=00000000&border_color=FF0000&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCraft07&card_width=450em&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=00000000&border_color=FF0000"/>
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=AdrianCraft07&show_icons=true&&count_private=true&include_all_commits=true&hide_stars=true&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=0d111700&border_color=FF0000" />
