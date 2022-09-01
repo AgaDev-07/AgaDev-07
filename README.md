@@ -5,7 +5,7 @@
   </a>
 </p>
 <h3>
-  🚀 Principal Stack
+  ?? Principal Stack
 </h3> 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -55,14 +55,5 @@
 </p>
 
 ### Github Stats:
-
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCraft07&card_width=450em&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=00000000&border_color=FF0000"/>
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=AdrianCraft07&show_icons=true&&count_private=true&include_all_commits=true&hide_stars=true&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=0d111700&border_color=FF0000" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCraft07&card_width=450em&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=00000000&border_color=FF0000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianCraft07&show_icons=true&&count_private=true&include_all_commits=true&hide_stars=true&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=0d111700&border_color=FF0000" />
