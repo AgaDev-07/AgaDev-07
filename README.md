@@ -52,6 +52,12 @@
   <a href="https://www.npmjs.com/package/@agacraft/functions" target="_blank">
     <img src="https://img.shields.io/npm/v/@agacraft/functions?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Ffunctions&logo=npm&style=flat-square">
   </a>
+  <a href="https://www.npmjs.com/package/runaga" target="_blank">
+    <img src="https://img.shields.io/npm/v/runaga?style=for-the-badge&color=%23ff0000&label=runaga&logo=npm&style=flat-square">
+  </a>
+  <a href="https://www.npmjs.com/package/waga" target="_blank">
+    <img src="https://img.shields.io/npm/v/waga?style=for-the-badge&color=%23ff0000&label=waga&logo=npm&style=flat-square">
+  </a>
 </p>
 
 ### Github Stats:
