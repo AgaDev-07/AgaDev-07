@@ -1,68 +1,44 @@
-## Social
-<p>
-  <a href="https://youtube.com/c/AdrianCraft07">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCSJAPPOzlybP_xSJj-E5W3w?color=%23FF0000&logo=youtube&logoColor=FF0000&style=for-the-badge">
-  </a>
-</p>
-<h3>
-   Principal Stack
-</h3> 
-<p>
-  <img src="https://img.shields.io/badge/Deno-black?style=for-the-badge&logo=deno&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</p>
-  
-<h4>Programming Languages</h4>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-00cc22?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/rust-CE412B?style=for-the-badge&logo=rust&logoColor=black">
-</p>
-<h4>Frontend Development</h4>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-<h4>Backend Development</h4>
-<p>
-  <img src="https://img.shields.io/badge/Deno-black?style=for-the-badge&logo=deno&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</p>
-<h4>Tools & Technologies</h4>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-</p>
+<center>
 
-### NPM Package
-<p>
-  <a href="https://www.npmjs.com/package/@agacraft/http" target="_blank">
-    <img src="https://img.shields.io/npm/v/@agacraft/http?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Fhttp&logo=npm&style=flat-square">
-  </a>
-  <a href="https://www.npmjs.com/package/@agacraft/extension" target="_blank">
-    <img src="https://img.shields.io/npm/v/@agacraft/extension?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Fextension&logo=npm&style=flat-square">
-  </a>
-  <a href="https://www.npmjs.com/package/@agacraft/fs" target="_blank">
-    <img src="https://img.shields.io/npm/v/@agacraft/fs?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Ffs&logo=npm&style=flat-square">
-  </a>
-  <a href="https://www.npmjs.com/package/@agacraft/classes" target="_blank">
-    <img src="https://img.shields.io/npm/v/@agacraft/classes?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Fclasses&logo=npm&style=flat-square">
-  </a>
-  <a href="https://www.npmjs.com/package/@agacraft/functions" target="_blank">
-    <img src="https://img.shields.io/npm/v/@agacraft/functions?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Ffunctions&logo=npm&style=flat-square">
-  </a>
-  <a href="https://www.npmjs.com/package/runaga" target="_blank">
-    <img src="https://img.shields.io/npm/v/runaga?style=for-the-badge&color=%23ff0000&label=runaga&logo=npm&style=flat-square">
-  </a>
-  <a href="https://www.npmjs.com/package/waga" target="_blank">
-    <img src="https://img.shields.io/npm/v/waga?style=for-the-badge&color=%23ff0000&label=waga&logo=npm&style=flat-square">
-  </a>
-</p>
+# AgaDev-07 | Software Developer
 
-### Github Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgaDev-07&card_width=450em&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=00000000&border_color=FF0000"/>
-<img src="https://github-readme-stats.vercel.app/api?username=AgaDev-07&include_all_commits=true&title_color=FF0000&text_color=CC0000&icon_color=FF0000&bg_color=0d111700&border_color=FF0000" />
+[![LinkedIn](https://img.icons8.com/color/32/linkedin.png)](https://www.linkedin.com/in/eduardo-adrian-velazquez-aviles-5032733aa)
+[![Instagram](https://img.icons8.com/color/32/instagram-new.png)](https://www.instagram.com/adriancraft07)
+[![YouTube - AgaDev07](https://img.icons8.com/color/32/youtube-play.png)](https://www.youtube.com/@AgaDev07)
+---
+
+### Español
+
+Soy desarrollador de software interesado en crear programas, desarrollar bibliotecas y explorar diferentes enfoques de programación. Disfruto trabajar en proyectos propios, optimizar los procesos de desarrollo y comprender cómo funcionan los sistemas internamente.
+
+### English
+
+I'm a software developer interested in building software, developing libraries, and exploring different programming approaches. I enjoy working on personal projects, optimizing development workflows, and understanding how systems work under the hood.
+
+## Tecnologías
+
+### Lenguajes / Languages
+---
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+---
+
+### Herramientas y habilidades / Tools & abilities
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+---
+
+## Estadísticas de GitHub / Github Stats
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AgaDev-07&layout=compact&theme=transparent&hide_border=true&title_color=FF4D4D&text_color=9CA3AF)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AgaDev-07&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=FF4D4D&text_color=9CA3AF&icon_color=FF4D4D)
+
+---
+</center>
+*Código con propósito. Construye con curiosidad.* / *Code with purpose. Build with curiosity.*
